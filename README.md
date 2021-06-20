@@ -1,5 +1,4 @@
 # Telecom-WA-POC
-https://watson-etisalat-assistant.eu-gb.mybluemix.net/
 
 ## Description
 The POC aims to assist users with their queries to know information about the offers and plans offered by the telecom company, and help users with their accounts and history transactions in the telecom company. Users can ask about their transaction history, smiles balance, account information, offers and plans by the telecom company. In addition, this assistant handles multi-intents and automatically run them sequentially. 
