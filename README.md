@@ -1,4 +1,4 @@
-# Usecase-POC
+# Telecom-WA-POC
 https://watson-etisalat-assistant.eu-gb.mybluemix.net/
 
 ## Description
