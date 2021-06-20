@@ -32,6 +32,4 @@ The POC aims to assist users with their queries to know information about the of
 5- Crawling information about plans and offers from the telecom company's HTML webages using Smart Document Understanding on Discovery.<br>
 6- Cloud Functions saves the plans and offers in Cloud Object Storage and retrieves information about users and plans when they are requested.<br>
 
-## Screenshots
-<img width="1440" alt="Screen Shot 2020-06-15 at 3 34 16 AM" src="https://media.github.ibm.com/user/273026/files/70085b00-aeb9-11ea-8c51-695f8ffa05be">
-<img width="1440" alt="Screen Shot 2020-06-15 at 3 35 05 AM" src="https://media.github.ibm.com/user/273026/files/cc6b7a80-aeb9-11ea-99dd-27f064dcc78b">
+
